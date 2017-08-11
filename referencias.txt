@@ -1,0 +1,7 @@
+http://es6-features.org/
+http://babeljs.io/repl/
+https://blog.mindorks.com/most-used-javascript-ecmascript-2015-es6-and-ecmascript-2016-es7-features-75682cd98596
+
+https://github.com/afonsopacifer/front-end-checklist
+
+https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/
