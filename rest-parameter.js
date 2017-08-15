@@ -1,5 +1,5 @@
-function hobbies(name, ...hobbies){
+function myHobbies(name, ...hobbies) {
   console.log(`${name} likes ${hobbies}`);
 }
 
-hobbies('Romulo', 'soccer', 'videogame', 'coding');
+myHobbies('Romulo', 'soccer', 'videogame', 'coding');
