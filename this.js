@@ -8,10 +8,10 @@ const person = {
   contact: {
     name: "Contact Name",
     getName() {
-        console.log(this.name);
-      } 
+      console.log(this.name);
     }
-}
+  }
+};
 
 const personES6 = {
   name: "Person Name",
@@ -21,10 +21,10 @@ const personES6 = {
   contact: {
     name: "Contact Name",
     getName: () => {
-        console.log(this.name);
-      } 
+      console.log(this.name);
     }
-}
+  }
+};
 
 person.getName();
 person.contact.getName();
